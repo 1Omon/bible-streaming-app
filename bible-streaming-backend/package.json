@@ -1,0 +1,21 @@
+{
+  "name": "bible-streaming-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@types/ws": "^8.5.14",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.85.1",
+    "pg": "^8.13.3",
+    "ws": "^8.18.0"
+  }
+}
